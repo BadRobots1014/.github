@@ -1,6 +1,6 @@
 # FRC Team 1014 — the Bad Robots 🤖
 
-We're the programming side of **FIRST Robotics Competition Team 1014**, a high school team from Dublin, Ohio.
+We're the programming side of **FIRST Robotics Competition Team 1014**, a single team serving all three Dublin City Schools high schools in Dublin, Ohio.
 Every January we get a new game, and about six weeks later we have a robot. This org is where its code lives.
 
 🌐 [dublinrobotics.com](https://dublinrobotics.com) · ▶️ [YouTube](https://www.youtube.com/@Team1014/videos) · 📊 [Team 1014 on The Blue Alliance](https://www.thebluealliance.com/team/1014)
@@ -28,4 +28,9 @@ You're welcome to read, fork, and borrow from anything here.
 It's built for our robots, so expect hardcoded ports, team-specific constants, and the occasional breaking change mid-season.
 If something here helps your team, we'd love to hear about it.
 
-<sub>Interested in joining or supporting the team? Visit [dublinrobotics.com](https://dublinrobotics.com).</sub>
+## Support the team
+
+Team 1014 is funded through the [Dublin Robotics Boosters](https://www.dublinroboticsboosters.org/), a nonprofit that also supports FIRST LEGO League teams across Dublin City Schools.
+[**Donate**](https://www.dublinroboticsboosters.org/support-us/donate) (tax-deductible) · [Sponsorship levels](https://www.dublinroboticsboosters.org/?page_id=13) · [Other ways to help](https://www.dublinroboticsboosters.org/support-us)
+
+<sub>Interested in joining the team? Visit [dublinrobotics.com](https://dublinrobotics.com).</sub>
